@@ -1,0 +1,11 @@
+additionalProperties:
+    key: php8
+    name: PHP8-Debain
+    tags:
+        - Runtime
+    shortDescZh: PHP8 运行环境
+    shortDescEn: PHP8 Runtime
+    type: php
+    website: https://www.php.net/
+    github: https://github.com/php/php-src
+    document: https://www.php.net/docs.php
